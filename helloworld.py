@@ -1,1 +1,1 @@
-print ("Hello World revisi")
+print ("ini adalah testing")
