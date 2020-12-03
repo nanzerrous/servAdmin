@@ -1,1 +1,1 @@
-print ("ini adalah testing")
+print ("server admin")
